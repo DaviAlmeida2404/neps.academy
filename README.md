@@ -14,5 +14,5 @@ Olá! Este repositório contém a resolução de **20 questões** propostas no N
 
 ## 📝 Conteúdo do repositório
 - Cada questão resolvida está dentro de arquivos separados.
-- Linguagem utilizada: **[Informe a linguagem, ex: Python, TypeScript, C++]**
+- Linguagem utilizada: **[javaScript]**
 - Estrutura do repositório:
